@@ -1,4 +1,1 @@
 this is the first task 1
-git add .
-git commit -m "Added task1"
-
